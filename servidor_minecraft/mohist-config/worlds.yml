@@ -1,0 +1,18 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    difficulty: NORMAL
+    seed: -4435730957671790579
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  DIM-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  twilight_forest:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: twilightforest
